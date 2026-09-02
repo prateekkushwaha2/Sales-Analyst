@@ -8,4 +8,9 @@ You can view the PDF document here:
 
 ### Preview
 
-<iframe src="./Skipzy_observaton.pdf" width="100%" height="800px"></iframe>
+![PDF Preview](./skipzy01.png)
+
+![PDF Preview](./skipzy02.png)
+
+![PDF Preview](./skipzy03.png)
+
