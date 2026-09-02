@@ -2,10 +2,10 @@
 
 You can view the PDF document here:
 
-**[📄 View PDF](./skipzy_observation.pdf)**
+**[📄 View PDF](./Skipzy_observaton.pdf)**
 
 ---
 
 ### Preview
 
-<iframe src="./skipzy_observation.pdf" width="100%" height="800px"></iframe>
+<iframe src="./Skipzy_observaton.pdf" width="100%" height="800px"></iframe>
